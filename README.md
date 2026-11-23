@@ -1,0 +1,2 @@
+# Pixelfall
+This game is a cozy-looking psychological horror RPG with pixel art, detailed cutscenes, exploration and real-time combat. The game focuses on mental health and different disorders, exaggerating certain experiences through the world, characters and enemies. It may look cute and welcoming at first but gets pretty dark as you progress. It also includes a tritanopia colorblind mode, since color perception is a big part of the game's visual identity.
